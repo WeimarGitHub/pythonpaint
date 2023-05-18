@@ -1,6 +1,6 @@
 # PythonPaint README
 
-Hi guys, WeimarGitHub here. Thank you for downloading the repository for PYTHONPAINT DEMO
+Hi guys, WeimarGitHub here. Thank you for downloading the repository for PYTHONPAINT DEMO. 
 Our Content is on GitHub and ONLY on GitHub. If you see any other websites promoting my content, it's probably fake.
 
 About how you can use this project
