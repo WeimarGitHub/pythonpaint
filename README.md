@@ -1,4 +1,5 @@
 # PythonPaint README
+Revision 1.0
 
 Hi guys, WeimarGitHub here. Thank you for downloading the repository for PYTHONPAINT DEMO. 
 Our Content is on GitHub and ONLY on GitHub. If you see any other websites promoting my content, it's probably fake.
