@@ -91,4 +91,4 @@ scr.onkey(changeOrange,'o')
 scr.onkey(changeBrown,'d')
 scr.onkey(changeBlack,'k')
 
-exitonclick()
+scr.mainloop()
