@@ -1,10 +1,6 @@
-# PYTHON RASTER GRAPHICS EDITOR
-Revision 1.2
+# PRGE (Python Raster Graphics Editor)
+The Python Raster Graphics Editor is an in-development raster graphics editor that is free and open source, meaning anyone can view the source code. It is created solely on Python.
 
-Hi guys, WeimarGitHub here. Thank you for downloading the repository for PYTHON RASTER GRAPHICS EDITOR
+PRGE can run on any desktop environment, as long as it supports the IDLE Python Shell, Visual Studio / Visual Studio Code. It is also completely open source, and anyone can edit this program.
 
-About how you can use this project:
-  * This tool is used for raster graphics editing.
-  * You may edit the project on either GitHub's official CLI or other editors.
-
-Copyleft (C) 2023 WeimarGitHub. No wrongs unreserved.
+This file will launch on any Python environments, and the latest beta edition.
